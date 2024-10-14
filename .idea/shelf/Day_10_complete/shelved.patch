@@ -1,0 +1,482 @@
+Index: .idea/shelf/Changes/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Changes/shelved.patch b/.idea/shelf/Changes/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1728872095473)
++++ b/.idea/shelf/Changes/shelved.patch	(date 1728872095473)
+@@ -0,0 +1,472 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d7a279fc-f362-49fb-a0d7-bf9d9454eb27\" name=\"Changes\" comment=\"\">\r\n      <changelist_data name=\"nsnagg\" email=\"\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"nsnagg\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SIGN_OFF_COMMIT\" value=\"true\" />\r\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mSJrXs0UwZl5tm2NdyJLt7HmB6\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.d6_robot.executor\": \"Run\",\r\n    \"Python.d7-5.executor\": \"Run\",\r\n    \"Python.d7_hangman.executor\": \"Run\",\r\n    \"Python.d8.executor\": \"Run\",\r\n    \"Python.d8_Caeser_Cipher.executor\": \"Run\",\r\n    \"Python.data_entry.executor\": \"Run\",\r\n    \"Python.hangman_art.executor\": \"Run\",\r\n    \"Python.pword_gen.executor\": \"Run\",\r\n    \"Python.random.executor\": \"Run\",\r\n    \"Python.rock_paper_scissor.executor\": \"Run\",\r\n    \"Python.task.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"editor.preferences.completion\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"ChangesTree.GroupingKeys\": []\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\norma\\PycharmProjects\\my-python-app\\100Days\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d7a279fc-f362-49fb-a0d7-bf9d9454eb27\" name=\"Changes\" comment=\"\" />\r\n      <created>1727064243047</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727064243047</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision 70bc354c9cd4bb581065c8cadf24421d1c9a523b)
+++++ b/.idea/workspace.xml	(date 1728872071919)
++@@ -4,8 +4,14 @@
++     <option name="autoReloadType" value="SELECTIVE" />
++   </component>
++   <component name="ChangeListManager">
++-    <list default="true" id="d7a279fc-f362-49fb-a0d7-bf9d9454eb27" name="Changes" comment="">
+++    <list default="true" id="d7a279fc-f362-49fb-a0d7-bf9d9454eb27" name="Changes" comment="Day 10 complete">
++       <changelist_data name="nsnagg" email="" />
+++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM_[Changes]/shelved.patch" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM__Changes_.xml" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/d10_Func_Output.py" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/d10_art.py" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/task.py" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
++     </list>
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++@@ -27,7 +33,6 @@
++     </option>
++     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++     <option name="SIGN_OFF_COMMIT" value="true" />
++-    <option name="UPDATE_TYPE" value="REBASE" />
++   </component>
++   <component name="ProjectColorInfo">{
++   &quot;associatedIndex&quot;: 2
++@@ -38,26 +43,26 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "Python.d6_robot.executor": "Run",
++-    "Python.d7-5.executor": "Run",
++-    "Python.d7_hangman.executor": "Run",
++-    "Python.d8.executor": "Run",
++-    "Python.d8_Caeser_Cipher.executor": "Run",
++-    "Python.data_entry.executor": "Run",
++-    "Python.hangman_art.executor": "Run",
++-    "Python.pword_gen.executor": "Run",
++-    "Python.random.executor": "Run",
++-    "Python.rock_paper_scissor.executor": "Run",
++-    "Python.task.executor": "Run",
++-    "RunOnceActivity.ShowReadmeOnStart": "true",
++-    "settings.editor.selected.configurable": "editor.preferences.completion"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;Python.d6_robot.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.d7-5.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.d7_hangman.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.d8.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.d8_Caeser_Cipher.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.data_entry.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.hangman_art.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.pword_gen.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.random.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.rock_paper_scissor.executor&quot;: &quot;Run&quot;,
+++    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+++    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
++   },
++-  "keyToStringList": {
++-    "ChangesTree.GroupingKeys": []
+++  &quot;keyToStringList&quot;: {
+++    &quot;ChangesTree.GroupingKeys&quot;: []
++   }
++-}]]></component>
+++}</component>
++   <component name="RecentsManager">
++     <key name="MoveFile.RECENT_KEYS">
++       <recent name="C:\Users\norma\PycharmProjects\my-python-app\100Days" />
++@@ -81,4 +86,8 @@
++     </task>
++     <servers />
++   </component>
+++  <component name="VcsManagerConfiguration">
+++    <MESSAGE value="Day 10 complete" />
+++    <option name="LAST_COMMIT_MESSAGE" value="Day 10 complete" />
+++  </component>
++ </project>
++\ No newline at end of file
++Index: task2.py
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/task2.py b/task2.py
++new file mode 100644
++--- /dev/null	(date 1728613355691)
+++++ b/task2.py	(date 1728613355691)
++@@ -0,0 +1,16 @@
+++order = {
+++    "starter": {
+++        1: "Salad",
+++        2: "Soup"
+++    },
+++    "main": {
+++        1: ["Burger", "Fries"],
+++        2: ["Steak"]
+++    },
+++    "dessert": {
+++        1: ["Ice Cream"],
+++        2: []
+++    },
+++}
+++
+++print(order["main"][1][0])
++Index: .idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM_[Changes]/shelved.patch
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM_[Changes]/shelved.patch
++new file mode 100644
++--- /dev/null	(date 1728020736527)
+++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM_[Changes]/shelved.patch	(date 1728020736527)
++@@ -0,0 +1,211 @@
+++Index: d9_dict.py
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/d9_dict.py b/d9_dict.py
+++--- a/d9_dict.py	(revision f3fb5950b59fb34acb8515bf6627e14030aed3b4)
++++++ b/d9_dict.py	(date 1728019755123)
+++@@ -1,0 +1,30 @@
++++student_scores = {
++++    'Harry': 88,
++++    'Ron': 78,
++++    'Hermione': 95,
++++    'Draco': 75,
++++    'Neville': 60
++++}
++++
++++student_grades = {}
++++
++++
++++def conv_to_grade(name, score_grade):
++++    if score_grade >= 91:
++++        print(f"{name} Outstanding")
++++        student_grades[name] = "Outstanding"
++++    elif score_grade >= 81:
++++        print(f"{name} Exceeds Expectations")
++++        student_grades[name] = "Exceeds Expectations"
++++    elif score_grade >= 71:
++++        print(f"{name} Acceptable")
++++        student_grades[name] = "Acceptable"
++++    else:
++++        print(f"{name} Fail")
++++        student_grades[name] = "Fail"
++++
++++
++++for key in student_scores:
++++    conv_to_grade(key, student_scores[key])
++++
++++print(student_grades) 
+++Index: .idea/workspace.xml
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d7a279fc-f362-49fb-a0d7-bf9d9454eb27\" name=\"Changes\" comment=\"\">\r\n      <changelist_data name=\"nsnagg\" email=\"\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"nsnagg\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SIGN_OFF_COMMIT\" value=\"true\" />\r\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mSJrXs0UwZl5tm2NdyJLt7HmB6\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.d6_robot.executor\": \"Run\",\r\n    \"Python.d7-5.executor\": \"Run\",\r\n    \"Python.d7_hangman.executor\": \"Run\",\r\n    \"Python.d8.executor\": \"Run\",\r\n    \"Python.d8_Caeser_Cipher.executor\": \"Run\",\r\n    \"Python.data_entry.executor\": \"Run\",\r\n    \"Python.hangman_art.executor\": \"Run\",\r\n    \"Python.pword_gen.executor\": \"Run\",\r\n    \"Python.random.executor\": \"Run\",\r\n    \"Python.rock_paper_scissor.executor\": \"Run\",\r\n    \"Python.task.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"editor.preferences.completion\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"ChangesTree.GroupingKeys\": []\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\norma\\PycharmProjects\\my-python-app\\100Days\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d7a279fc-f362-49fb-a0d7-bf9d9454eb27\" name=\"Changes\" comment=\"\" />\r\n      <created>1727064243047</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727064243047</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+++--- a/.idea/workspace.xml	(revision f3fb5950b59fb34acb8515bf6627e14030aed3b4)
++++++ b/.idea/workspace.xml	(date 1728020014544)
+++@@ -6,6 +6,11 @@
+++   <component name="ChangeListManager">
+++     <list default="true" id="d7a279fc-f362-49fb-a0d7-bf9d9454eb27" name="Changes" comment="">
+++       <changelist_data name="nsnagg" email="" />
++++      <change afterPath="$PROJECT_DIR$/d9_dict_nesting.py" afterDir="false" />
++++      <change afterPath="$PROJECT_DIR$/json.py" afterDir="false" />
++++      <change afterPath="$PROJECT_DIR$/task.py" afterDir="false" />
++++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++++      <change beforePath="$PROJECT_DIR$/d9_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/d9_dict.py" afterDir="false" />
+++     </list>
+++     <option name="SHOW_DIALOG" value="false" />
+++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+++@@ -27,7 +32,6 @@
+++     </option>
+++     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+++     <option name="SIGN_OFF_COMMIT" value="true" />
+++-    <option name="UPDATE_TYPE" value="REBASE" />
+++   </component>
+++   <component name="ProjectColorInfo">{
+++   &quot;associatedIndex&quot;: 2
+++@@ -38,26 +42,27 @@
+++     <option name="hideEmptyMiddlePackages" value="true" />
+++     <option name="showLibraryContents" value="true" />
+++   </component>
+++-  <component name="PropertiesComponent"><![CDATA[{
+++-  "keyToString": {
+++-    "Python.d6_robot.executor": "Run",
+++-    "Python.d7-5.executor": "Run",
+++-    "Python.d7_hangman.executor": "Run",
+++-    "Python.d8.executor": "Run",
+++-    "Python.d8_Caeser_Cipher.executor": "Run",
+++-    "Python.data_entry.executor": "Run",
+++-    "Python.hangman_art.executor": "Run",
+++-    "Python.pword_gen.executor": "Run",
+++-    "Python.random.executor": "Run",
+++-    "Python.rock_paper_scissor.executor": "Run",
+++-    "Python.task.executor": "Run",
+++-    "RunOnceActivity.ShowReadmeOnStart": "true",
+++-    "settings.editor.selected.configurable": "editor.preferences.completion"
++++  <component name="PropertiesComponent">{
++++  &quot;keyToString&quot;: {
++++    &quot;Python.d6_robot.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.d7-5.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.d7_hangman.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.d8.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.d8_Caeser_Cipher.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.d9_dict.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.data_entry.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.hangman_art.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.pword_gen.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.random.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.rock_paper_scissor.executor&quot;: &quot;Run&quot;,
++++    &quot;Python.task.executor&quot;: &quot;Run&quot;,
++++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++++    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+++   },
+++-  "keyToStringList": {
+++-    "ChangesTree.GroupingKeys": []
++++  &quot;keyToStringList&quot;: {
++++    &quot;ChangesTree.GroupingKeys&quot;: []
+++   }
+++-}]]></component>
++++}</component>
+++   <component name="RecentsManager">
+++     <key name="MoveFile.RECENT_KEYS">
+++       <recent name="C:\Users\norma\PycharmProjects\my-python-app\100Days" />
+++Index: json.py
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/json.py b/json.py
+++new file mode 100644
+++--- /dev/null	(date 1728019755132)
++++++ b/json.py	(date 1728019755132)
+++@@ -0,0 +1,47 @@
++++# How to Create a JSON file
++++import json
++++import csv
++++
++++if __name__ != __main__:
++++    file = "01_names.json"
++++    newFile = "01_new_json_data.json"
++++
++++
++++    # Pass/Write data to a JSON file
++++    def write_to_json(data, filename=newFile):
++++        with open(filename, "w") as f:
++++            json.dump(data, f, indent=4)
++++
++++
++++    def open_a_json_file:
++++        # Open JSON file
++++        with open(file, "r") as json_file:
++++            data = json.load(json_file)
++++            write_json(data)
++++
++++
++++    data = ["Norman", "Lisa"]
++++    write_json(data)
++++
++++    def append_to_json_file
++++    # Append new entry to JSON file
++++    with open("01_names.json") as json_file:
++++        data = json.load(json_file)
++++        temp = data["names1"]
++++        y = {"firstname": "Frank", "age": 60}
++++        temp.append(y)
++++
++++    write_json(data)
++++
++++def conv_json_to_csv:
++++
++++    with open("01_names.json", "r") as f:
++++        data = json.load(f)
++++        names = data["names1"]
++++
++++    with open("01_names.csv", "w", newline="") as f:
++++        fieldnames = names[0].keys()
++++        writer = csv.DictWriter(f, fieldnames=fieldnames)
++++        writer.writeheader()
++++        for name in names:
++++            writer.writerow(name)
+++Index: task.py
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/task.py b/task.py
+++new file mode 100644
+++--- /dev/null	(date 1728019755148)
++++++ b/task.py	(date 1728019755148)
+++@@ -0,0 +1,27 @@
++++student_scores = {
++++    'Harry': 88,
++++    'Ron': 78,
++++    'Hermione': 95,
++++    'Draco': 75,
++++    'Neville': 60
++++}
++++
++++# Create an empty dictionary to collect the new values.
++++student_grades = {}
++++
++++# Loop through each key in the student_scores dictionary
++++for student in student_scores:
++++
++++    # Get the value (student score) by using the key each time.
++++    score = student_scores[student]
++++
++++    # Check what grade the score would get, then add it to student_grades
++++    if score >= 91:
++++        student_grades[student] = 'Outstanding'
++++    elif score >= 81:
++++        student_grades[student] = 'Exceeds Expectations'
++++    elif score >= 71:
++++        student_grades[student] = 'Acceptable'
++++    else:
++++        student_grades[student] = 'Fail'
++++
+++diff --git a/d9_dict_nesting.py b/d9_dict_nesting.py
+++new file mode 100644
++Index: d10_Func_Output.py
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/d10_Func_Output.py b/d10_Func_Output.py
++new file mode 100644
++--- /dev/null	(date 1728871525169)
+++++ b/d10_Func_Output.py	(date 1728871525169)
++@@ -0,0 +1,58 @@
+++import d10_art
+++
+++def add(n1, n2):
+++    return n1 + n2
+++
+++
+++def subtract(n1, n2):
+++    return n1 - n2
+++
+++
+++def multiply(n1, n2):
+++    return n1 * n2
+++
+++
+++def divide(n1, n2):
+++    return n1 / n2
+++
+++
+++operators: dict = {
+++    "+": add,
+++    "-": subtract,
+++    "*": multiply,
+++    "/": divide,
+++}
+++
+++
+++def calculator():
+++    print(d10_art.logo)
+++    result: float = 0
+++    first_num = float(input("What is your first number?: "))
+++    while True:
+++
+++        for symbol in operators:
+++            print(symbol)
+++        operand = input("Operand, '*', '/', '+', or '-': ")
+++
+++        second_num = float(input("What is your second number?: "))
+++
+++        result: float = operators[operand](first_num, second_num)
+++        print(f"The result is: {result}")
+++
+++        print(f"{first_num} {operand} {second_num} = {result}")
+++
+++        another = input(f"Would you like to continue using the previous result of: {result}? 'y' for yes or 'n' for no: ")
+++        if another == "n":
+++            print("\n")
+++            # print("This program has ended...")
+++            # break
+++            calculator()
+++        elif another == "y":
+++            first_num = result
+++        elif another == "q" or "quit":
+++            print("\n")
+++            print("This program has quit")
+++
+++calculator()
+++
+++
++Index: .idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM__Changes_.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM__Changes_.xml
++new file mode 100644
++--- /dev/null	(date 1728859254145)
+++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM__Changes_.xml	(date 1728859254145)
++@@ -0,0 +1,4 @@
+++<changelist name="Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM_[Changes]" date="1728020736537" recycled="false" toDelete="true">
+++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_4_2024_12_45_AM_[Changes]/shelved.patch" />
+++  <option name="DESCRIPTION" value="Uncommitted changes before Update at 10/4/2024 12:45 AM [Changes]" />
+++</changelist>
++\ No newline at end of file
++Index: d10_art.py
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/d10_art.py b/d10_art.py
++new file mode 100644
++--- /dev/null	(date 1728871284536)
+++++ b/d10_art.py	(date 1728871284536)
++@@ -0,0 +1,16 @@
+++logo = """
+++ _____________________
+++|  _________________  |
+++| | Pythonista   0. | |  .----------------.  .----------------.  .----------------.  .----------------. 
+++| |_________________| | | .--------------. || .--------------. || .--------------. || .--------------. |
+++|  ___ ___ ___   ___  | | |     ______   | || |      __      | || |   _____      | || |     ______   | |
+++| | 7 | 8 | 9 | | + | | | |   .' ___  |  | || |     /  \     | || |  |_   _|     | || |   .' ___  |  | |
+++| |___|___|___| |___| | | |  / .'   \_|  | || |    / /\ \    | || |    | |       | || |  / .'   \_|  | |
+++| | 4 | 5 | 6 | | - | | | |  | |         | || |   / ____ \   | || |    | |   _   | || |  | |         | |
+++| |___|___|___| |___| | | |  \ `.___.'\  | || | _/ /    \ \_ | || |   _| |__/ |  | || |  \ `.___.'\  | |
+++| | 1 | 2 | 3 | | x | | | |   `._____.'  | || ||____|  |____|| || |  |________|  | || |   `._____.'  | |
+++| |___|___|___| |___| | | |              | || |              | || |              | || |              | |
+++| | . | 0 | = | | / | | | '--------------' || '--------------' || '--------------' || '--------------' |
+++| |___|___|___| |___| |  '----------------'  '----------------'  '----------------'  '----------------' 
+++|_____________________|
+++"""
++\ No newline at end of file
++Index: task.py
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/task.py b/task.py
++new file mode 100644
++--- /dev/null	(date 1728865865007)
+++++ b/task.py	(date 1728865865007)
++@@ -0,0 +1,15 @@
+++def is_leap_year(year):
+++    """ Takes a year, (ie. 1900) and determine if it is a leap year.
+++        For example, year 2400 is a leap year.
+++    """
+++    # Write your code here.
+++    if year % 4 == 0 and year % 100 != 0 or year % 400 == 0:
+++        return True
+++
+++    return False
+++
+++
+++# Don't change the function name.
+++
+++output = int(input("Type year: "))
+++print(is_leap_year(output))
++\ No newline at end of file
