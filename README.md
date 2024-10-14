@@ -7,7 +7,7 @@ To save those readers from going through the entire example, here are the Git co
 git init
 git add .
 git commit -m "Add existing project files to Git"
-git remote add origin https://github.com/cameronmcnz/example-website.git
+git remote add origin https://github.com/nsnagg/githubTest.git
 git push -u -f origin master
 
 
