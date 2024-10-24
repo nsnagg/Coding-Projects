@@ -1,5 +1,6 @@
 import d10_art
 
+
 def add(n1, n2):
     return n1 + n2
 
@@ -16,6 +17,7 @@ def divide(n1, n2):
     return n1 / n2
 
 
+# Each function is paired with a symbol
 operators: dict = {
     "+": add,
     "-": subtract,
@@ -52,6 +54,7 @@ def calculator():
         elif another == "q" or "quit":
             print("\n")
             print("This program has quit")
+
 
 calculator()
 

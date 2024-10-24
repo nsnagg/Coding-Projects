@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a279fc-f362-49fb-a0d7-bf9d9454eb27" name="Changes" comment="Day 10 complete">
+    <list default="true" id="d7a279fc-f362-49fb-a0d7-bf9d9454eb27" name="Changes" comment="Update calculate">
       <changelist_data name="nsnagg" email="" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d11_BlackJack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_13_2024_10_15_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_13_2024_10_15_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d10_Func_Output.py" beforeDir="false" afterPath="$PROJECT_DIR$/d10_Func_Output.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.d10_Func_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d11_BlackJack.executor&quot;: &quot;Run&quot;,
     &quot;Python.d6_robot.executor&quot;: &quot;Run&quot;,
     &quot;Python.d7-5.executor&quot;: &quot;Run&quot;,
     &quot;Python.d7_hangman.executor&quot;: &quot;Run&quot;,
@@ -60,10 +67,12 @@
     &quot;Python.rock_paper_scissor.executor&quot;: &quot;Run&quot;,
     &quot;Python.task.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
   &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: []
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -91,6 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 10 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 10 complete" />
+    <MESSAGE value="Configure .gitignore" />
+    <MESSAGE value="Update calculate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update calculate" />
   </component>
 </project>
